@@ -1,0 +1,93 @@
+[
+    {
+      "price": 350000,
+      "id": 1,
+      "title": "Superstar",
+      "image": "assets/img/superStar.jpg"
+    },
+    {
+      "price": 276900,
+      "id": 2,
+      "title": "Forum CL",
+      "image": "assets/img/forumCL.jpg"
+    },
+    {
+      "price": 302000,
+      "id": 3,
+      "title": "USA 84",
+      "image": "assets/img/usa84.jpg"
+    },
+    {
+      "price": 155000,
+      "id": 4,
+      "title": "Forum Low TT",
+      "image": "assets/img/forumLowTT.jpg"
+    },
+    {
+      "price": 270000,
+      "id": 5,
+      "title": "NMD_R1",
+      "image": "assets/img/NMD_R1.jpg"
+    },
+    {
+      "price": 405000,
+      "id": 6,
+      "title": "Stand Smith",
+      "image": "assets/img/standSmith.jpg"
+    },
+    {
+      "price": 199000,
+      "id": 7,
+      "title": "ZX 5K Boost",
+      "image": "assets/img/zx5kBoost.jpg"
+    },
+    {
+      "price": 297000,
+      "id": 8,
+      "title": "Retropy P9",
+      "image": "assets/img/retropyP9.jpg"
+    },
+    {
+      "price": 104000,
+      "id": 9,
+      "title": "ZX 8000 Parley",
+      "image": "assets/img/zx8000Parley.jpg"
+    },
+    {
+      "price": 99900,
+      "id": 10,
+      "title": "Nizza",
+      "image": "assets/img/nizza.jpg"
+    },
+    {
+      "price": 145000,
+      "id": 11,
+      "title": "HU Tennis",
+      "image": "assets/img/huTennis.jpg"
+    },
+    {
+      "price": 230000,
+      "id": 12,
+      "title": "Continental 80",
+      "image": "assets/img/continental80stripes.jpg"
+    },
+    {
+      "price": 340000,
+      "id": 13,
+      "title": "Multix",
+      "image": "assets/img/multix.jpg"
+    },
+    {
+      "price": 147000,
+      "id": 14,
+      "title": "Tyshawn Low",
+      "image": "assets/img/tyshawnLow.jpg"
+    },
+    {
+      "price": 300000,
+      "id": 15,
+      "title": "OZRAH",
+      "image": "assets/img/OZRAH.jpg"
+    }
+    
+]
